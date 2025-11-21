@@ -134,7 +134,8 @@ Netflix_Dashboard.pbix
 
 dashboard_final.png
 
-netflix_ultra_red_black_theme.json
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3256c848-ebbe-477a-a4e0-75aac0f47bef" />
+
 
 README.md
 
